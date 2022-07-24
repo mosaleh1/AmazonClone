@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/white"
+    android:padding="16dp"
+    tools:context="com.gdsc_alazhar.amazonclone.LoginActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="220dp"
+        android:layout_gravity="center"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="160dp"
+            android:text="@string/text_view_login"
+            android:textColor="@color/black"
+            android:textSize="25sp"
+            android:textStyle="bold" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:text="@string/text_view_desc"
+            android:textColor="@color/color_l" />
+    </LinearLayout>
+
+    <EditText
+            android:id="@+id/editTextTextEmail"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:drawableLeft="@drawable/ic_baseline_email_24"
+            android:layout_margin="10dp"
+            android:hint="@string/enter_email"
+            android:padding="10dp"
+            />
+
+    <EditText
+            android:id="@+id/editTextTextPassword"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:drawableLeft="@drawable/ic_pass"
+            android:layout_margin="10dp"
+            android:hint="@string/password"
+            android:padding="10dp"
+            android:inputType="textPassword"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+                android:id="@+id/SignIn_btn"
+                android:layout_width="313dp"
+                android:layout_height="60dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginLeft="18dp"
+                android:layout_marginRight="18dp"
+                android:layout_weight="1"
+                android:backgroundTint="#1634DC"
+                android:text="@string/signin_btn"
+                android:textColor="@color/black"
+                android:textSize="18sp"
+        />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="50dp"
+            android:gravity="center"
+            android:text="@string/regerister_tv"
+            android:textColor="@color/color_l"
+            android:textSize="18sp" />
+
+        <Button
+                android:id="@+id/register_button"
+                android:layout_width="match_parent"
+                android:layout_height="68dp"
+                android:layout_margin="20dp"
+                android:text="@string/register_btn"
+                android:backgroundTint="@color/BlueLight"
+        />
+    </LinearLayout>
+
+</LinearLayout>

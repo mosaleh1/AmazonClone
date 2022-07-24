@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "715683962325",
+    "project_id": "cloneee-3aa8b",
+    "storage_bucket": "cloneee-3aa8b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:715683962325:android:7872364d973a6a1087f15c",
+        "android_client_info": {
+          "package_name": "com.gdsc_alazhar.amazonclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "715683962325-7ptn7satld385qkss1crgnbl7rnrhg34.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPY3DWanaFJKHJqk-0v52OrDqgQXQuKrg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "715683962325-7ptn7satld385qkss1crgnbl7rnrhg34.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
