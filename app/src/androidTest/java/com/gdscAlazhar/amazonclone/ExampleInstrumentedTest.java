@@ -1,4 +1,4 @@
-package com.gdsc_alazhar.amazonclone;
+package com.gdscAlazhar.amazonclone;
 
 import android.content.Context;
 
