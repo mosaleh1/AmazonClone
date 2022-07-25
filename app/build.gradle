@@ -6,7 +6,7 @@ android {
     compileSdk 32
 
     defaultConfig {
-        applicationId "com.gdsc_alazhar.amazonclone"
+        applicationId "com.gdscAlazhar.amazonclone"
         minSdk 21
         targetSdk 32
         versionCode 1

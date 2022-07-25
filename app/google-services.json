@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "715683962325",
-    "project_id": "cloneee-3aa8b",
-    "storage_bucket": "cloneee-3aa8b.appspot.com"
+    "project_number": "933134760353",
+    "project_id": "alazhar-22f43",
+    "storage_bucket": "alazhar-22f43.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:715683962325:android:7872364d973a6a1087f15c",
+        "mobilesdk_app_id": "1:933134760353:android:5f6651da232d79a85233e0",
         "android_client_info": {
-          "package_name": "com.gdsc_alazhar.amazonclone"
+          "package_name": "com.gdscAlazhar.amazonclone"
         }
       },
       "oauth_client": [
         {
-          "client_id": "715683962325-7ptn7satld385qkss1crgnbl7rnrhg34.apps.googleusercontent.com",
+          "client_id": "933134760353-0m4tivi3nph4nq6rjid37395qvkh1ksk.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBPY3DWanaFJKHJqk-0v52OrDqgQXQuKrg"
+          "current_key": "AIzaSyBEkybPi4VmprJ7qfsnaEu1Bj2gKmLQ1kg"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "715683962325-7ptn7satld385qkss1crgnbl7rnrhg34.apps.googleusercontent.com",
+              "client_id": "933134760353-0m4tivi3nph4nq6rjid37395qvkh1ksk.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

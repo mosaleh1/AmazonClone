@@ -1,4 +1,4 @@
-package com.gdsc_alazhar.amazonclone;
+package com.gdscAlazhar.amazonclone;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -61,7 +61,7 @@ public class LoginActivity extends AppCompatActivity {
         });
     }
     public void checkEmailPass(String email_str, String password_str) {
-        databaseReference= FirebaseDatabase.getInstance().getReferenceFromUrl("https://amizonclone-default-rtdb.firebaseio.com/");
+        databaseReference= FirebaseDatabase.getInstance().getReferenceFromUrl("https://alazhar-22f43-default-rtdb.firebaseio.com/");
         databaseReference.child("users").addListenerForSingleValueEvent(new ValueEventListener() {
             @Override
             public void onDataChange(@NonNull DataSnapshot snapshot) {
