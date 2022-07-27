@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "933134760353",
+    "project_id": "alazhar-22f43",
+    "storage_bucket": "alazhar-22f43.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933134760353:android:5f6651da232d79a85233e0",
+        "android_client_info": {
+          "package_name": "com.gdscAlazhar.amazonclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "933134760353-0m4tivi3nph4nq6rjid37395qvkh1ksk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEkybPi4VmprJ7qfsnaEu1Bj2gKmLQ1kg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "933134760353-0m4tivi3nph4nq6rjid37395qvkh1ksk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

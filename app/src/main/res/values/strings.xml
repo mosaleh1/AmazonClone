@@ -1,3 +1,18 @@
 <resources>
     <string name="app_name">Amazon Clone</string>
+    <string name="title_home">Home</string>
+    <string name="title_categories">Categories</string>
+    <string name="title_favorite">Favorite</string>
+    <string name="title_settings">settings</string>
+    <string name="text_view_login">LOGIN</string>
+    <string name="text_view_desc">Login now to browse our hot offers</string>
+    <string name="email_address">Email Address</string>
+    <string name="signin_btn">Sign in</string>
+    <string name="password">Password</string>
+    <string name="regerister_tv">Don\'t have an account?</string>
+    <string name="register_btn">Register</string>
+    <string name="user_name">User Name</string>
+    <string name="register_text_view">Register</string>
+    <string name="enter_email">Email Address</string>
+    <string name="phone">Phone</string>
 </resources>
